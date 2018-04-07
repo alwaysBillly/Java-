@@ -8,7 +8,7 @@
     堆，是指用于存放Java对象的内存区域。
     1. JVM的堆被同一个JVM实例中的所有线程共享；
     2. 堆通常被某种自动内存管理机制所管理，这种机制一般叫做“垃圾回收”（garbage collection，GC）；
-    3. 待补充。。。
+    3. Java堆中还可以细分为：新生代（Eden空间、From Survivor和To Survivor空间）和老年代。
 
 ## 栈（stack）
 

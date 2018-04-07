@@ -1,1 +1,1 @@
-GET https://baidu.com HTTP/1.1
+GET http://localhost:8080/admin.html
